@@ -4,7 +4,7 @@ This is a project to create a small news platform that covers news from all coun
 Project Status
 
 The project is currently in the early stages of development. The core infrastructure is in place, but there is still a lot of work to be done on the user interface, content curation, and translation.
-Currently checking out [NewsCatcher][(https://www.newscatcherapi.com] to test their news feed.
+Currently checking out [NewsCatcher](https://www.newscatcherapi.com) to test their news feed.
 
 Features
 
